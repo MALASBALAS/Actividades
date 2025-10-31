@@ -1,4 +1,4 @@
-\# Comunicación entre Actividades – Android
+# Comunicación entre Actividades – Android
 
 
 
@@ -6,11 +6,11 @@ Proyecto que muestra cómo enviar datos entre dos actividades mediante Intent y 
 
 
 
-\## Funcionamiento
+## Funcionamiento
 
 
 
-\### MainActivity
+### MainActivity
 
 
 
@@ -44,7 +44,7 @@ Muestra un Toast con la información introducida.
 
 
 
-\### SegundaActivity
+### SegundaActivity
 
 
 
@@ -60,7 +60,7 @@ Incluye un botón para volver a la primera actividad.
 
 
 
-\## Conceptos usados
+## Conceptos usados
 
 
 
